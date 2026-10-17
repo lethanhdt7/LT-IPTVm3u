@@ -14,7 +14,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist-pre_1080p.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
@@ -39,7 +39,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
 https://dethich.pw/htv7/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao
 https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -161,7 +161,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN
 https://live.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
